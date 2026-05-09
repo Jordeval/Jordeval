@@ -27,7 +27,7 @@ I am a Full Stack Developer based in Brazil, specializing in building robust web
 
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3.
 - **Backend:** Node.js, Express, Python.
-- **Tools & Others:** Git/GitHub, Salesforce Ecosystem, API REST, Electronics & Automation.
+- **Tools & Others:** Git/GitHub, API REST, Electronics & Automation.
 
 ---
 
