@@ -42,3 +42,7 @@ I am a Full Stack Developer based in Brazil, specializing in building robust web
 ### 📫 Let's connect!
 - **Email:** jordeval.filho@hotmail.com
 - **Location:** Trindade, GO - Brazil (Available for Remote Work Worldwide 🌍)
+
+
+[![JORDEVAL](https://github-readme-stats.vercel.app/api?username=Jordeval)](https://github.com/anuraghazra/github-readme-stats)
+
